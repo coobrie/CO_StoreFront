@@ -1,0 +1,40 @@
+a {
+  color: #cf5c36;
+}
+a:hover {
+  color: blue;
+}
+body{
+background: linear-gradient(#82ac9f, #cdd6dd) !important;
+}
+.card-image-top{
+  padding-top: 50px;
+}
+.my-4{
+  color: #cf5c36;
+}
+.list-group-item{
+  color: #37413e;
+}
+.card-text{
+  color: #37413e;
+}
+.header .footer{
+  color: #37413e;
+}
+
+/*--
+Homepage
+single product Page
+cart Page
+checkout Page
+About us
+contact page
+
+----
+
+header Footer
+background too plain
+links
+fonts?
+--*/
